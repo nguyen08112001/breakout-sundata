@@ -1,0 +1,32 @@
+{
+    "preload": {
+        "files": [{
+                "type": "bitmapFont",
+                "key": "font",
+                "textureURL": "./assets/font/font.png",
+                "fontDataURL": "./assets/font/font.fnt"
+            },
+            {
+                "type": "atlas",
+                "key": "flares",
+                "textureURL": "https://labs.phaser.io/assets/particles/flares.png",
+                "atlasURL": "https://labs.phaser.io/assets/particles/flares.json"
+            },
+            {
+                "type": "image",
+                "key": "broken-glass",
+                "url": "./assets/images/broken-glass.png"
+            },
+            {
+                "type": "image",
+                "key": "broken",
+                "url": "./assets/images/broken.png"
+            },
+            {
+                "type": "image",
+                "key": "new-ball-item",
+                "url": "./assets/images/new-ball-item.png"
+            }
+        ]
+    }
+}
