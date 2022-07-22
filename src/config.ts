@@ -15,7 +15,7 @@ export const GameConfig: Phaser.Types.Core.GameConfig = {
     default: 'arcade',
     arcade: {
       gravity: { x: 0, y: 0 },
-      debug: true
+      // debug: true
     }
   },
   scale: {
@@ -25,6 +25,5 @@ export const GameConfig: Phaser.Types.Core.GameConfig = {
     width: 480,
     height: 640
   },
-  backgroundColor: 0x262626,
   render: { pixelArt: true }
 };

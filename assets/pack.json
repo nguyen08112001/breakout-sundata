@@ -19,6 +19,21 @@
             },
             {
                 "type": "image",
+                "key": "moss",
+                "url": "./assets/images/moss.png"
+            },
+            {
+                "type": "image",
+                "key": "blue-cur",
+                "url": "./assets/images/blue-cur.png"
+            },
+            {
+                "type": "image",
+                "key": "bg",
+                "url": "./assets/images/bg.jpeg"
+            },
+            {
+                "type": "image",
                 "key": "broken",
                 "url": "./assets/images/broken.png"
             },
